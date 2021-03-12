@@ -1,0 +1,113 @@
+﻿[
+  {
+    "cdg": {
+"identity": 1346,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"altitude": 392.0,
+"country": "France",
+"TimeZone": "Europe/Paris",
+"city": "Paris",
+"latitude": 49.0127983093,
+"IATA": "CDG",
+"name": "Charles de Gaulle International Airport",
+"id": 1382,
+"longitude": 2.54999995232
+      }
+    },
+    "f": {
+"identity": 154335,
+"start": 64931,
+"end": 1346,
+"type": "from",
+"properties": {
+
+      }
+    },
+    "r": {
+"identity": 64931,
+"labels": [
+        "Route"
+      ],
+"properties": {
+"equipment": "380"
+      }
+    }
+  },
+  {
+    "cdg": {
+"identity": 1346,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"altitude": 392.0,
+"country": "France",
+"TimeZone": "Europe/Paris",
+"city": "Paris",
+"latitude": 49.0127983093,
+"IATA": "CDG",
+"name": "Charles de Gaulle International Airport",
+"id": 1382,
+"longitude": 2.54999995232
+      }
+    },
+    "f": {
+"identity": 120363,
+"start": 53607,
+"end": 1346,
+"type": "from",
+"properties": {
+
+      }
+    },
+    "r": {
+"identity": 53607,
+"labels": [
+        "Route"
+      ],
+"properties": {
+"equipment": "380"
+      }
+    }
+  },
+  {
+    "cdg": {
+"identity": 1346,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"altitude": 392.0,
+"country": "France",
+"TimeZone": "Europe/Paris",
+"city": "Paris",
+"latitude": 49.0127983093,
+"IATA": "CDG",
+"name": "Charles de Gaulle International Airport",
+"id": 1382,
+"longitude": 2.54999995232
+      }
+    },
+    "f": {
+"identity": 13848,
+"start": 18101,
+"end": 1346,
+"type": "from",
+"properties": {
+
+      }
+    },
+    "r": {
+"identity": 18101,
+"labels": [
+        "Route"
+      ],
+"properties": {
+"equipment": "380"
+      }
+    }
+  }
+]
