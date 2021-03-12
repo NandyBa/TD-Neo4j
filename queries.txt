@@ -25,3 +25,11 @@ Match  (cdg:Airport{IATA:"CDG"})<-[:from]-(r:Route)-[:to]->(a:Airport{country:"F
 #2.1.9
 MATCH  (from)<-[:from]-(r:Route)-[:to]->(to) WHERE r.equipment CONTAINS "380" RETURN from.name, to.name
 
+#2.1.10
+MATCH p= (from{country:"France"})<-[:from]-(:Route)-[:to]->(to{country:"United Kingdom"})  RETURN p
+
+#2.1.11
+MATCH (from{country:"France"})<-[:from]-(r:Route)-[:to]->(to{country:"United Kingdom"}), (r)-[:by]->(a:Airline)  RETURN DISTINCT a.name
+
+#2.1.12
+MATCH (from{country:"France"})<-[:from]-(r:Route)-[:to]->(to{country:"United Kingdom"}), (r)-[:by]->(a:Airline) WHERE r.equipment CONTAINS "320" RETURN DISTINCT a.name
