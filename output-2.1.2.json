@@ -1,0 +1,494 @@
+﻿[
+  {
+    "a.name": "Aigle Azur",
+    "a.IATA": "ZI"
+  },
+  {
+    "a.name": "Air France",
+    "a.IATA": "AF"
+  },
+  {
+    "a.name": "Air Caledonie International",
+    "a.IATA": "SB"
+  },
+  {
+    "a.name": "Altagna",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Aeroservices Corporate",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Airbus Industrie",
+    "a.IATA": "AP"
+  },
+  {
+    "a.name": "Air Tahiti Nui",
+    "a.IATA": "TN"
+  },
+  {
+    "a.name": "Aero Services Executive",
+    "a.IATA": "W4"
+  },
+  {
+    "a.name": "Air Libert",
+    "a.IATA": "VD"
+  },
+  {
+    "a.name": "AOM French Airlines",
+    "a.IATA": "IW"
+  },
+  {
+    "a.name": "Aero Entreprise",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Aero Vision",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Airlec - Air Aquitaine Transport",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Aria",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Air Saint Pierre",
+    "a.IATA": "PJ"
+  },
+  {
+    "a.name": "Avia Sud A",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Airbus Transport International",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Air Mediterranee",
+    "a.IATA": "DR"
+  },
+  {
+    "a.name": "Air Moorea",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Air Caraïbes",
+    "a.IATA": "TX"
+  },
+  {
+    "a.name": "Aviaxess",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Axis Airways",
+    "a.IATA": "6V"
+  },
+  {
+    "a.name": "Airways",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Aviazur",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "ASECNA",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Assistance Aeroportuaire de L'Aeroport de Paris",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Air Caraibes Atlantique",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Aviation Defense Service",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Aero-Pyrenees",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Air Mana",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Airailes",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Aero Fenix",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Air Taxi",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Atlantic Air Lift",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Alsair",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Air ITM",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Airbus France",
+    "a.IATA": "4Y"
+  },
+  {
+    "a.name": "Air Austral",
+    "a.IATA": "UU"
+  },
+  {
+    "a.name": "Air Archipels",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Airlinair",
+    "a.IATA": "A5"
+  },
+  {
+    "a.name": "Air Alize",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Artis",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Air Turquoise",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Atlantique Air Assistance",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Air Cal",
+    "a.IATA": "TY"
+  },
+  {
+    "a.name": "Blue Line",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Brit Air",
+    "a.IATA": "DB"
+  },
+  {
+    "a.name": "Bureau Veritas",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "CNET",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Catex",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Cente D'Essais En Vol",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Chalair Aviation",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Champagne Airlines",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Commandement Du Transport Aerien Militaire Francais",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Corsairfly",
+    "a.IATA": "SS"
+  },
+  {
+    "a.name": "Corse-Mediterranee",
+    "a.IATA": "XK"
+  },
+  {
+    "a.name": "Darta",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Dassault Aviation",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Dassault Falcon Service",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "EPAG Groupe Air France",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Eagle Aviation France",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Eurocopter",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Europe Air Lines",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Europe Airpost",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "FLowair Aviation",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Finist'air",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "France Douanes",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Force Aerienne Francaise",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Aviation Legere De L'Armee De Terre",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "France Marine Nationale",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Ga-Ma Helicoptere",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Gendarmie Nationale",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Heli France",
+    "a.IATA": "8H"
+  },
+  {
+    "a.name": "Heli Securite",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Heli Union Heli Prestations",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Heli-Inter Guyane",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Helicap",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Heliocean",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Hex'Air",
+    "a.IATA": "UD"
+  },
+  {
+    "a.name": "Héli Sécurité Helicopter Airlines",
+    "a.IATA": "H4"
+  },
+  {
+    "a.name": "Icare Franche Compte",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Ixair",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Lorraine Aviation",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "MANAG'AIR",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Michelin Air Services",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Missions Gouvernemtales Francaises",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "O Air",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Pan Europeenne Air Service",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Phenix Aviation",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Police Aux Frontiers",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Proteus Helicopteres",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Régional",
+    "a.IATA": "YS"
+  },
+  {
+    "a.name": "Saint Barth Commuter",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Sky Cam",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Sud Airlines",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "SEFA",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Service Aerien Francais",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Star Service International",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "SNCF",
+    "a.IATA": "2C"
+  },
+  {
+    "a.name": "Touraine Helicoptere",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Trans Helicoptere Service",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Twin Jet",
+    "a.IATA": "T7"
+  },
+  {
+    "a.name": "Take Air Line",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Taxi Air Fret",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Transair France",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Transport'air",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Tango Bravo",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "Unijet",
+    "a.IATA": ""
+  },
+  {
+    "a.name": "XL Airways France",
+    "a.IATA": "SE"
+  },
+  {
+    "a.name": "Transavia France",
+    "a.IATA": "TO"
+  },
+  {
+    "a.name": "Transport Aérien Transrégional",
+    "a.IATA": "IJ"
+  },
+  {
+    "a.name": "Aéris (Priv)",
+    "a.IATA": "SH"
+  },
+  {
+    "a.name": "Tom\'s & co airliners",
+    "a.IATA": "&T"
+  },
+  {
+    "a.name": "Air Charter International",
+    "a.IATA": "SF"
+  },
+  {
+    "a.name": "AirLiberté",
+    "a.IATA": "IJ"
+  },
+  {
+    "a.name": "T.A.T",
+    "a.IATA": "IJ"
+  },
+  {
+    "a.name": "VickJet",
+    "a.IATA": "KT"
+  },
+  {
+    "a.name": "CheapFlyingInternational",
+    "a.IATA": "WL"
+  },
+  {
+    "a.name": "3 Valleys Airlines",
+    "a.IATA": "3V"
+  },
+  {
+    "a.name": "REXAIR VIRTUEL",
+    "a.IATA": "RR"
+  },
+  {
+    "a.name": "Fly France",
+    "a.IATA": "FF"
+  },
+  {
+    "a.name": "Europe Jet",
+    "a.IATA": "EX"
+  },
+  {
+    "a.name": "Dummy",
+    "a.IATA": "0E"
+  }
+]
