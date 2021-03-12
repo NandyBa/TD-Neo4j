@@ -3,3 +3,6 @@ Match (a:Airport) Where a.country = "France" Return a.name, a.IATA
 
 #2.1.2
 Match (a:Airline{country:"France"}) Where EXISTS(a.IATA) Return a.name, a.IATA
+
+#2.1.3
+Match (a:Airline{country:"France"})<--(:Route)  Return a.name
