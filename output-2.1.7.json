@@ -1,0 +1,17 @@
+﻿[
+  {
+    "a.name": "Suvarnabhumi Airport",
+    "a.country": "Thailand",
+    "airl.name": "Thai Airways International"
+  },
+  {
+    "a.name": "Kuala Lumpur International Airport",
+    "a.country": "Malaysia",
+    "airl.name": "Malaysia Airlines"
+  },
+  {
+    "a.name": "Kuala Lumpur International Airport",
+    "a.country": "Malaysia",
+    "airl.name": "American Airlines"
+  }
+]
