@@ -12,3 +12,7 @@ Match p= (cdg:Airport{IATA:"CDG"})<-[f:from]-(r:Route)  Return p
 
 #2.1.5
 Match  (cdg:Airport{IATA:"CDG"})<-[f:from]-(r:Route) WHERE r.equipment CONTAINS "380"  Return cdg,f,r
+
+#2.1.6
+Match  (cdg:Airport{IATA:"CDG"})<-[f1:from]-(r:Route)-[f2:to]->(a:Airport) WHERE r.equipment CONTAINS "380"  Return a.name, a.country
+
