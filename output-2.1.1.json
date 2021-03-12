@@ -1,0 +1,858 @@
+﻿[
+  {
+    "a.name": "Calais-Dunkerque Airport",
+    "a.IATA": "CQF"
+  },
+  {
+    "a.name": "Péronne-Saint-Quentin Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Nangis-Les Loges Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Bagnoles-de-l'Orne-Couterne Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Albert-Bray Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Le Touquet-Côte d'Opale Airport",
+    "a.IATA": "LTQ"
+  },
+  {
+    "a.name": "Valenciennes-Denain Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Amiens-Glisy Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Agen-La Garenne Airport",
+    "a.IATA": "AGF"
+  },
+  {
+    "a.name": "Cazaux (BA 120) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Bordeaux-Mérignac Airport",
+    "a.IATA": "BOD"
+  },
+  {
+    "a.name": "Bergerac-Roumanière Airport",
+    "a.IATA": "EGC"
+  },
+  {
+    "a.name": "Toulouse-Francazal (BA 101) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Cognac-Châteaubernard (BA 709) Air Base",
+    "a.IATA": "CNG"
+  },
+  {
+    "a.name": "Poitiers-Biard Airport",
+    "a.IATA": "PIS"
+  },
+  {
+    "a.name": "Montluçon-Guéret Airport",
+    "a.IATA": "MCU"
+  },
+  {
+    "a.name": "Limoges Airport",
+    "a.IATA": "LIG"
+  },
+  {
+    "a.name": "Mont-de-Marsan (BA 118) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Niort-Souché Airport",
+    "a.IATA": "NIT"
+  },
+  {
+    "a.name": "Toulouse-Blagnac Airport",
+    "a.IATA": "TLS"
+  },
+  {
+    "a.name": "Pau Pyrénées Airport",
+    "a.IATA": "PUF"
+  },
+  {
+    "a.name": "Muret-Lherm Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Tarbes-Lourdes-Pyrénées Airport",
+    "a.IATA": "LDE"
+  },
+  {
+    "a.name": "Angoulême-Brie-Champniers Airport",
+    "a.IATA": "ANG"
+  },
+  {
+    "a.name": "Toul Rosières Air Base",
+    "a.IATA": "BVE"
+  },
+  {
+    "a.name": "Périgueux-Bassillac Airport",
+    "a.IATA": "PGX"
+  },
+  {
+    "a.name": "Biarritz-Anglet-Bayonne Airport",
+    "a.IATA": "BIQ"
+  },
+  {
+    "a.name": "Cahors-Lalbenque Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Saint-Girons-Antichan Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Arcachon-La Teste-de-Buch Airport",
+    "a.IATA": "XAC"
+  },
+  {
+    "a.name": "Albi-Le Séquestre Airport",
+    "a.IATA": "LBI"
+  },
+  {
+    "a.name": "Castres-Mazamet Airport",
+    "a.IATA": "DCM"
+  },
+  {
+    "a.name": "Toulouse-Lasbordes Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Millau-Larzac Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Graulhet-Montdragon Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Rodez-Marcillac Airport",
+    "a.IATA": "RDZ"
+  },
+  {
+    "a.name": "Ussel-Thalamy Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Villeneuve-sur-Lot Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Royan-Médis Airport",
+    "a.IATA": "RYN"
+  },
+  {
+    "a.name": "Mimizan Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Aire-sur-l'Adour Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Montauban Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Auch-Lamothe Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Libourne-Artigues-de-Lussac Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Pamiers-Les Pujols Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Marmande-Virazeil Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Rochefort-Saint-Agnant (BA 721) Airport",
+    "a.IATA": "RCO"
+  },
+  {
+    "a.name": "Pontivy Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Aubigny-sur-Nère Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Guiscriff Scaer Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Ancenis Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Brienne-le-Château Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Colmar-Houssen Airport",
+    "a.IATA": "CMR"
+  },
+  {
+    "a.name": "Beaune-Challanges Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Dole-Tavaux Airport",
+    "a.IATA": "DLE"
+  },
+  {
+    "a.name": "Joigny Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Verdun-Le Rozelier Airfield",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Aubenas-Ardèche Méridional Airport",
+    "a.IATA": "OBS"
+  },
+  {
+    "a.name": "Le Puy-Loudes Airport",
+    "a.IATA": "LPY"
+  },
+  {
+    "a.name": "Saint-Flour-Coltines Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Bourg-Ceyzériat Airport",
+    "a.IATA": "XBK"
+  },
+  {
+    "a.name": "Villefranche-Tarare Airport",
+    "a.IATA": "XVF"
+  },
+  {
+    "a.name": "Moulins-Montbeugny Airport",
+    "a.IATA": "XMU"
+  },
+  {
+    "a.name": "Saint-Affrique-Belmont Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Cassagnes-Bégonhès Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Metz-Nancy-Lorraine Airport",
+    "a.IATA": "ETZ"
+  },
+  {
+    "a.name": "Bastia-Poretta Airport",
+    "a.IATA": "BIA"
+  },
+  {
+    "a.name": "Calvi-Sainte-Catherine Airport",
+    "a.IATA": "CLY"
+  },
+  {
+    "a.name": "Figari Sud-Corse Airport",
+    "a.IATA": "FSC"
+  },
+  {
+    "a.name": "Ajaccio-Napoléon Bonaparte Airport",
+    "a.IATA": "AJA"
+  },
+  {
+    "a.name": "Propriano Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Solenzara (BA 126) Air Base",
+    "a.IATA": "SOZ"
+  },
+  {
+    "a.name": "Corte Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Auxerre-Branches Airport",
+    "a.IATA": "AUF"
+  },
+  {
+    "a.name": "Chambéry-Savoie Airport",
+    "a.IATA": "CMF"
+  },
+  {
+    "a.name": "Clermont-Ferrand Auvergne Airport",
+    "a.IATA": "CFE"
+  },
+  {
+    "a.name": "Bourges Airport",
+    "a.IATA": "BOU"
+  },
+  {
+    "a.name": "Chambéry-Challes-les-Eaux Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Chalon-Champforgeuil Airport",
+    "a.IATA": "XCD"
+  },
+  {
+    "a.name": "Annemasse Airport",
+    "a.IATA": "QNJ"
+  },
+  {
+    "a.name": "Lyon Saint-Exupéry Airport",
+    "a.IATA": "LYS"
+  },
+  {
+    "a.name": "Mâcon-Charnay Airport",
+    "a.IATA": "QNX"
+  },
+  {
+    "a.name": "Saint-Yan Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Roanne-Renaison Airport",
+    "a.IATA": "RNE"
+  },
+  {
+    "a.name": "Annecy-Haute-Savoie-Mont Blanc Airport",
+    "a.IATA": "NCY"
+  },
+  {
+    "a.name": "Grenoble-Isère Airport",
+    "a.IATA": "GNB"
+  },
+  {
+    "a.name": "Montluçon-Domérat Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Valence-Chabeuil Airport",
+    "a.IATA": "VAF"
+  },
+  {
+    "a.name": "Vichy-Charmeil Airport",
+    "a.IATA": "VHY"
+  },
+  {
+    "a.name": "Aurillac Airport",
+    "a.IATA": "AUR"
+  },
+  {
+    "a.name": "Châteauroux-Déols \"Marcel Dassault\" Airport",
+    "a.IATA": "CHR"
+  },
+  {
+    "a.name": "Lyon-Bron Airport",
+    "a.IATA": "LYN"
+  },
+  {
+    "a.name": "Aix-en-Provence (BA 114) Airport",
+    "a.IATA": "QXB"
+  },
+  {
+    "a.name": "Le Luc-Le Cannet Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Cannes-Mandelieu Airport",
+    "a.IATA": "CEQ"
+  },
+  {
+    "a.name": "Saint-Étienne-Bouthéon Airport",
+    "a.IATA": "EBU"
+  },
+  {
+    "a.name": "Istres Le Tubé/Istres Air Base (BA 125) Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Carcassonne Airport",
+    "a.IATA": "CCF"
+  },
+  {
+    "a.name": "Marseille Provence Airport",
+    "a.IATA": "MRS"
+  },
+  {
+    "a.name": "Nice-Côte d'Azur Airport",
+    "a.IATA": "NCE"
+  },
+  {
+    "a.name": "Orange-Caritat (BA 115) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Perpignan-Rivesaltes (Llabanère) Airport",
+    "a.IATA": "PGF"
+  },
+  {
+    "a.name": "Le Castellet Airport",
+    "a.IATA": "CTT"
+  },
+  {
+    "a.name": "Alès-Deaux Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Montpellier-Méditerranée Airport",
+    "a.IATA": "MPL"
+  },
+  {
+    "a.name": "Béziers-Vias Airport",
+    "a.IATA": "BZR"
+  },
+  {
+    "a.name": "Avignon-Caumont Airport",
+    "a.IATA": "AVN"
+  },
+  {
+    "a.name": "Salon-de-Provence (BA 701) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Lézignan-Corbières Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Mende-Brenoux Airport",
+    "a.IATA": "MEN"
+  },
+  {
+    "a.name": "Carpentras Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Avord (BA 702) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Paris Beauvais Tillé Airport",
+    "a.IATA": "BVA"
+  },
+  {
+    "a.name": "Châteaudun (BA 279) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Saumur-Saint-Florent Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Évreux-Fauville (BA 105) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Le Havre Octeville Airport",
+    "a.IATA": "LEH"
+  },
+  {
+    "a.name": "Abbeville",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Orléans-Bricy (BA 123) Air Base",
+    "a.IATA": "ORE"
+  },
+  {
+    "a.name": "Châlons-Vatry Air Base",
+    "a.IATA": "XCR"
+  },
+  {
+    "a.name": "Rouen Airport",
+    "a.IATA": "URO"
+  },
+  {
+    "a.name": "Tours-Val-de-Loire Airport",
+    "a.IATA": "TUF"
+  },
+  {
+    "a.name": "Cholet Le Pontreau Airport",
+    "a.IATA": "CET"
+  },
+  {
+    "a.name": "Laval-Entrammes Airport",
+    "a.IATA": "LVA"
+  },
+  {
+    "a.name": "Orléans-Saint-Denis-de-l'Hôtel Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Paris-Le Bourget Airport",
+    "a.IATA": "LBG"
+  },
+  {
+    "a.name": "Creil Air Base",
+    "a.IATA": "CSF"
+  },
+  {
+    "a.name": "Charles de Gaulle International Airport",
+    "a.IATA": "CDG"
+  },
+  {
+    "a.name": "Coulommiers-Voisins Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Melun-Villaroche Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Toussus-le-Noble Airport",
+    "a.IATA": "TNF"
+  },
+  {
+    "a.name": "Paris-Orly Airport",
+    "a.IATA": "ORY"
+  },
+  {
+    "a.name": "Pontoise - Cormeilles-en-Vexin Airport",
+    "a.IATA": "POX"
+  },
+  {
+    "a.name": "Villacoublay-Vélizy (BA 107) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Reims-Prunay Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Troyes-Barberey Airport",
+    "a.IATA": "QYR"
+  },
+  {
+    "a.name": "Lunéville-Croismare Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Étain-Rouvres Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Autun-Bellevue Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Nevers-Fourchambault Airport",
+    "a.IATA": "NVS"
+  },
+  {
+    "a.name": "Cambrai-Épinoy (BA 103) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Maubeuge-Élesmes Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Besançon-La Vèze Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Phalsbourg-Bourscheid Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Lille-Lesquin Airport",
+    "a.IATA": "LIL"
+  },
+  {
+    "a.name": "Merville-Calonne Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Charleville-Mézières Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Vesoul-Frotey Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Brest Bretagne Airport",
+    "a.IATA": "BES"
+  },
+  {
+    "a.name": "Cherbourg-Maupertus Airport",
+    "a.IATA": "CER"
+  },
+  {
+    "a.name": "Dinard-Pleurtuit-Saint-Malo Airport",
+    "a.IATA": "DNR"
+  },
+  {
+    "a.name": "La Baule-Escoublac Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Granville Airport",
+    "a.IATA": "GFR"
+  },
+  {
+    "a.name": "Deauville-Saint-Gatien Airport",
+    "a.IATA": "DOL"
+  },
+  {
+    "a.name": "Lorient South Brittany (Bretagne Sud) Airport",
+    "a.IATA": "LRT"
+  },
+  {
+    "a.name": "La Roche-sur-Yon Airport",
+    "a.IATA": "EDM"
+  },
+  {
+    "a.name": "Landivisiau Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Caen-Carpiquet Airport",
+    "a.IATA": "CFR"
+  },
+  {
+    "a.name": "Lanvéoc-Poulmic Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Le Mans-Arnage Airport",
+    "a.IATA": "LME"
+  },
+  {
+    "a.name": "Rennes-Saint-Jacques Airport",
+    "a.IATA": "RNS"
+  },
+  {
+    "a.name": "Lannion-Côte de Granit Airport",
+    "a.IATA": "LAI"
+  },
+  {
+    "a.name": "Quimper-Cornouaille Airport",
+    "a.IATA": "UIP"
+  },
+  {
+    "a.name": "Nantes Atlantique Airport",
+    "a.IATA": "NTE"
+  },
+  {
+    "a.name": "Saint-Brieuc-Armor Airport",
+    "a.IATA": "SBK"
+  },
+  {
+    "a.name": "Morlaix-Ploujean Airport",
+    "a.IATA": "MXN"
+  },
+  {
+    "a.name": "Vannes-Meucon Airport",
+    "a.IATA": "VNE"
+  },
+  {
+    "a.name": "Saint-Nazaire-Montoir Airport",
+    "a.IATA": "SNR"
+  },
+  {
+    "a.name": "EuroAirport Basel-Mulhouse-Freiburg Airport",
+    "a.IATA": "BSL"
+  },
+  {
+    "a.name": "Colmar-Meyenheim Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Dijon-Bourgogne Airport",
+    "a.IATA": "DIJ"
+  },
+  {
+    "a.name": "Metz-Frescaty (BA 128) Air Base",
+    "a.IATA": "MZM"
+  },
+  {
+    "a.name": "Épinal-Mirecourt Airport",
+    "a.IATA": "EPL"
+  },
+  {
+    "a.name": "Haguenau Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Saint-Dizier-Robinson (BA 113) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Montbéliard-Courcelles Airfield",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Nancy-Essey Airport",
+    "a.IATA": "ENC"
+  },
+  {
+    "a.name": "Nancy-Ochey (BA 133) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Pontarlier Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Reims-Champagne (BA 112) Air Base",
+    "a.IATA": "RHE"
+  },
+  {
+    "a.name": "Strasbourg Airport",
+    "a.IATA": "SXB"
+  },
+  {
+    "a.name": "Luxeuil-Saint-Sauveur (BA 116) Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Cuers-Pierrefeu Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Toulon-Hyères Airport",
+    "a.IATA": "TLN"
+  },
+  {
+    "a.name": "Nîmes-Arles-Camargue Airport",
+    "a.IATA": "FNI"
+  },
+  {
+    "a.name": "Ambérieu Air Base (BA 278)",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Damblain Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Enghien Moisselles Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Île d'Yeu Airport",
+    "a.IATA": "IDY"
+  },
+  {
+    "a.name": "Angers-Loire Airport",
+    "a.IATA": "ANE"
+  },
+  {
+    "a.name": "La Môle Airport",
+    "a.IATA": "LTT"
+  },
+  {
+    "a.name": "Gustaf III Airport",
+    "a.IATA": "SBH"
+  },
+  {
+    "a.name": "Courchevel Airport",
+    "a.IATA": "CVF"
+  },
+  {
+    "a.name": "Andernos Les Bains Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "La Rochelle-Île de Ré Airport",
+    "a.IATA": "LRH"
+  },
+  {
+    "a.name": "Ouessant Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Fréjus Airport",
+    "a.IATA": "FRJ"
+  },
+  {
+    "a.name": "Saint-Cyr-l'École Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Strasbourg Neuhof Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Megève Airport",
+    "a.IATA": "MVV"
+  },
+  {
+    "a.name": "Méribel Altiport",
+    "a.IATA": "MFX"
+  },
+  {
+    "a.name": "Pont Sur Yonne Airfield",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "St Florentin Cheu Airfield",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Saulieu Liernais Airfield",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Meaux Esbly Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Château-Thierry - Belleau Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Fontaine Airport",
+    "a.IATA": "BOR"
+  },
+  {
+    "a.name": "La Ferté Alais Airfield",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Guatuso Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Lille/Marcq-en-Baroeul Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Digby (General Hospital) Heliport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "La Grand'combe Airport",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Lure Malbouhans Air Base",
+    "a.IATA": "\N"
+  },
+  {
+    "a.name": "Blois-Le Breuil Airport",
+    "a.IATA": "\N"
+  }
+]
