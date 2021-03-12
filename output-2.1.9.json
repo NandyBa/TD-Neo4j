@@ -1,0 +1,114 @@
+﻿[
+  {
+    "from.name": "Charles de Gaulle International Airport",
+    "to.name": "Kuala Lumpur International Airport"
+  },
+  {
+    "from.name": "OR Tambo International Airport",
+    "to.name": "London Heathrow Airport"
+  },
+  {
+    "from.name": "Kuala Lumpur International Airport",
+    "to.name": "Charles de Gaulle International Airport"
+  },
+  {
+    "from.name": "Kuala Lumpur International Airport",
+    "to.name": "London Heathrow Airport"
+  },
+  {
+    "from.name": "Los Angeles International Airport",
+    "to.name": "Melbourne International Airport"
+  },
+  {
+    "from.name": "Los Angeles International Airport",
+    "to.name": "Sydney Kingsford Smith International Airport"
+  },
+  {
+    "from.name": "London Heathrow Airport",
+    "to.name": "OR Tambo International Airport"
+  },
+  {
+    "from.name": "London Heathrow Airport",
+    "to.name": "Kuala Lumpur International Airport"
+  },
+  {
+    "from.name": "Melbourne International Airport",
+    "to.name": "Los Angeles International Airport"
+  },
+  {
+    "from.name": "Sydney Kingsford Smith International Airport",
+    "to.name": "Los Angeles International Airport"
+  },
+  {
+    "from.name": "Guangzhou Baiyun International Airport",
+    "to.name": "Los Angeles International Airport"
+  },
+  {
+    "from.name": "Guangzhou Baiyun International Airport",
+    "to.name": "Beijing Capital International Airport"
+  },
+  {
+    "from.name": "Los Angeles International Airport",
+    "to.name": "Guangzhou Baiyun International Airport"
+  },
+  {
+    "from.name": "Beijing Capital International Airport",
+    "to.name": "Guangzhou Baiyun International Airport"
+  },
+  {
+    "from.name": "Guangzhou Baiyun International Airport",
+    "to.name": "Los Angeles International Airport"
+  },
+  {
+    "from.name": "Los Angeles International Airport",
+    "to.name": "Guangzhou Baiyun International Airport"
+  },
+  {
+    "from.name": "Charles de Gaulle International Airport",
+    "to.name": "Kuala Lumpur International Airport"
+  },
+  {
+    "from.name": "Kuala Lumpur International Airport",
+    "to.name": "Charles de Gaulle International Airport"
+  },
+  {
+    "from.name": "Kuala Lumpur International Airport",
+    "to.name": "London Heathrow Airport"
+  },
+  {
+    "from.name": "London Heathrow Airport",
+    "to.name": "Kuala Lumpur International Airport"
+  },
+  {
+    "from.name": "Suvarnabhumi Airport",
+    "to.name": "Charles de Gaulle International Airport"
+  },
+  {
+    "from.name": "Suvarnabhumi Airport",
+    "to.name": "Frankfurt am Main International Airport"
+  },
+  {
+    "from.name": "Suvarnabhumi Airport",
+    "to.name": "Kansai International Airport"
+  },
+  {
+    "from.name": "Suvarnabhumi Airport",
+    "to.name": "Narita International Airport"
+  },
+  {
+    "from.name": "Charles de Gaulle International Airport",
+    "to.name": "Suvarnabhumi Airport"
+  },
+  {
+    "from.name": "Frankfurt am Main International Airport",
+    "to.name": "Suvarnabhumi Airport"
+  },
+  {
+    "from.name": "Kansai International Airport",
+    "to.name": "Suvarnabhumi Airport"
+  },
+  {
+    "from.name": "Narita International Airport",
+    "to.name": "Suvarnabhumi Airport"
+  }
+]

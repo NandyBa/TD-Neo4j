@@ -24,3 +24,4 @@ Match  (cdg:Airport{IATA:"CDG"})<-[:from]-(r:Route)-[:to]->(a:Airport{country:"F
 
 #2.1.9
 MATCH  (from)<-[:from]-(r:Route)-[:to]->(to) WHERE r.equipment CONTAINS "380" RETURN from.name, to.name
+
